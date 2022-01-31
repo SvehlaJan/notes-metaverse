@@ -4,6 +4,6 @@
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false
 }
