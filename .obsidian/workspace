@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOC/Problems/Data security/Device security.md",
+            "file": "TOC/Problems/Real world interactions/Privacy in real world.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOC/Problems/Data security/Device security.md",
+                "file": "TOC/Problems/Real world interactions/Privacy in real world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "05e698d5bb090066",
   "lastOpenFiles": [
+    "TOC/Problems/Real world interactions/Privacy in real world.md",
+    "TOC/Problems/Governance, policies.md",
+    "TOC/Problems/Manipulation/Social engineering attacks.md",
+    "TOC/Problems/Manipulation/Social credit system.md",
+    "TOC/Problems/Manipulation/Mass manipulation.md",
     "TOC/Problems/Data security/Device security.md",
     "TOC/Problems/Data security/Data breaches.md",
     "TOC/Problems/Data security/Biological, behavioural sensitive data.md",
     "home.md",
-    "TOC/Problems/Identity/Identity, Account management.md",
-    "TOC/Other/Read articles.md",
-    "TOC/Other/Brainstorming notes.md",
-    "TOC/Other/Inbox.md",
-    "Index.md",
-    "TOC/Companies/Minor/VRChat.md"
+    "TOC/Problems/Identity/Identity, Account management.md"
   ]
 }

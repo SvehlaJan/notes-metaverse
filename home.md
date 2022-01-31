@@ -31,7 +31,7 @@
 
 [[Physical dangers]]
 
-[[VR, RR interactions]]
+[[Privacy in real world]]
 
 # Other
 [[Governance, policies]]
