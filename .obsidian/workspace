@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/Data security/Biological, behavioural sensitive data.md",
+            "file": "TOC/Problems/Data security/Device security.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Data security/Biological, behavioural sensitive data.md",
+                "file": "TOC/Problems/Data security/Device security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "05e698d5bb090066",
   "lastOpenFiles": [
-    "Problems/Data security/Biological, behavioural sensitive data.md",
+    "TOC/Problems/Data security/Device security.md",
+    "TOC/Problems/Data security/Data breaches.md",
+    "TOC/Problems/Data security/Biological, behavioural sensitive data.md",
     "home.md",
-    "Problems/Identity/Identity, Account management.md",
-    "Read articles.md",
-    "Brainstorming notes.md",
-    "Inbox.md",
+    "TOC/Problems/Identity/Identity, Account management.md",
+    "TOC/Other/Read articles.md",
+    "TOC/Other/Brainstorming notes.md",
+    "TOC/Other/Inbox.md",
     "Index.md",
-    "Companies/Minor/VRChat.md",
-    "Companies/Minor/Metafluence.md",
-    "Companies/Minor/Decentraland.md"
+    "TOC/Companies/Minor/VRChat.md"
   ]
 }

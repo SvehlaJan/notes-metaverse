@@ -6,7 +6,7 @@ publish = "public"
 # Text in landing page button
 LANDING_BUTTON = "Explore"
 # Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = ""
 # The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # Site title on landing page
@@ -15,7 +15,7 @@ PYTHON_VERSION = "3.8"
 # Site repo URL
 REPO_URL = "https://github.com/SvehlaJan/notes-metaverse"
 # Site title in navbar
-SITE_TITLE = "Site title"
+SITE_TITLE = "Metaverse"
 # Site URL
 SITE_URL = "https://svehla.netlify.app/"
 # Site Timezone
