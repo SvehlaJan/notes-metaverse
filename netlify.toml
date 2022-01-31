@@ -17,7 +17,7 @@ REPO_URL = "https://github.com/SvehlaJan/notes-metaverse"
 # Site title in navbar
 SITE_TITLE = "Site title"
 # Site URL
-SITE_URL = ""
+SITE_URL = "https://svehla.netlify.app/"
 # Site Timezone
 TIMEZONE = "Europe/Prague"
 ZOLA_VERSION = "0.15.2"
