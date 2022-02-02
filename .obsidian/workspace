@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "TOC/Problems/Data security/Device security.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "TOC/Problems/Data security/Device security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "05e698d5bb090066",
   "lastOpenFiles": [
+    "TOC/Problems/Data security/Device security.md",
+    "TOC/Problems/Data security/Data breaches.md",
+    "TOC/Problems/Data security/Biological, behavioural sensitive data.md",
+    "TOC/Other/What is it?.md",
+    "TOC/Other/Inbox.md",
+    "TOC/Other/Brainstorming notes.md",
+    "TOC/Tech/WebAssembly (WASM).md",
     "home.md",
     "TOC/Problems/Privacy/Surveillance.md",
-    "TOC/Problems/Privacy/Advertisment.md",
-    "TOC/Other/What is it?.md",
-    "TOC/Problems/Identity/Secure monetary transactions.md",
-    "TOC/Problems/Identity/Fraudulent content.md",
-    "TOC/Problems/Identity/Identity, Account management.md",
-    "TOC/Solutions/Identity verification.md",
-    "TOC/Problems/Privacy/Advergaming.md",
-    "TOC/Problems/Governance, policies.md"
+    "TOC/Problems/Privacy/Advertisment.md"
   ]
 }
