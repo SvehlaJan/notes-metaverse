@@ -6,7 +6,7 @@ title: "Identity, Account management"
 - will the platforms allow standards such as [[Decentralised identity]]?
 - will the platforms allow anonymous access? will they require a public social media account?
 
-- how will the identity be verified? will users be able to verify identity of other users? [[Verification methods]]
+- how will the identity be verified? will users be able to verify identity of other users? [[Identity verification]]
 	- avatars with fake identities might be used for [[Social engineering attacks]]
 
 

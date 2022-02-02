@@ -1,0 +1,17 @@
+- Metaverse is very broad term
+- it is not a single app -what Facebook/Meta is showing or what was shown in Ready Player one (although it might get there)
+- it will be a multiverse of metaverses
+- it isn't a future state, it is already there
+	- many projects already are some kind of Metaverse - Fortnite, Roblox, - 
+- current internet is about transactions - buying stuff, information access, consuming content
+- Metaverse is mainly about real-time experiences, activity-centric - the user is present in the virtual world and is a part of it
+- a lot of reasoning/relevance is in games - they are activity-based - people 
+	- activity-based - similar as in games
+- a lot of content will be telling stories, informing
+- most of the content will come from creators (independent?) - exponential rise expected
+- supported by real-time technology, immersive stuff, being in places and spaces
+- workspace
+	- it was asynchronous - Slack messages, or initiating a Zoom call
+	- Metaverse - more real-time, everyone in the same place, environment
+- everyone says that it needs to be decentralised, I don't see this requirement so crucial
+- it will eventually inherit all jobs of television

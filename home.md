@@ -10,7 +10,7 @@
 
 [[Secure monetary transactions]]
 
-[[Verification methods]]
+[[Identity verification]]
 
 # Manipulation
 [[Mass manipulation]]
