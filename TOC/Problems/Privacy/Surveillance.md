@@ -1,5 +1,5 @@
 ---
-title: "Surveilance"
+title: "Surveillance"
 ---
 - existing platforms ([[Meta]], [[Alphabet]], [[Microsoft]]) are already gathering all possible data to profile their users
 - with [[Biological, behavioural sensitive data]], they could predict extremely precise models could be created

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOC/Other/What is it?.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOC/Other/What is it?.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "05e698d5bb090066",
   "lastOpenFiles": [
+    "home.md",
+    "TOC/Problems/Privacy/Surveillance.md",
+    "TOC/Problems/Privacy/Advertisment.md",
     "TOC/Other/What is it?.md",
     "TOC/Problems/Identity/Secure monetary transactions.md",
-    "TOC/Problems/Identity/Untrusted content.md",
+    "TOC/Problems/Identity/Fraudulent content.md",
     "TOC/Problems/Identity/Identity, Account management.md",
     "TOC/Solutions/Identity verification.md",
-    "TOC/Problems/Privacy/Surveilance.md",
-    "TOC/Problems/Privacy/Advertisment.md",
     "TOC/Problems/Privacy/Advergaming.md",
-    "TOC/Problems/Governance, policies.md",
-    "TOC/Companies/Alphabet.md"
+    "TOC/Problems/Governance, policies.md"
   ]
 }

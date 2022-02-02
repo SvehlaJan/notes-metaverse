@@ -1,3 +1,6 @@
+# Intro
+[[What is it?]]
+
 # Data security
 [[Biological, behavioural sensitive data]]
 
@@ -10,7 +13,7 @@
 
 [[Secure monetary transactions]]
 
-[[Identity verification]]
+[[Fraudulent content]]
 
 # Manipulation
 [[Mass manipulation]]
@@ -20,7 +23,7 @@
 [[Social engineering attacks]]
 
 # Privacy
-[[Advergaming]]
+[[Surveillance]]
 
 [[Advertisment]]
 
